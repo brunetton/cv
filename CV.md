@@ -22,5 +22,5 @@ Expérience
 Formation
 
 - 1999: BAC Scientifique spécialité maths
-- 2000-2002: DUG Mathémathiques et Physique
+- 2000-2002: DEUG Mathémathiques et Physique
 - 2003-2005: Master Informatique (faculté de Luminy - Marseille)
